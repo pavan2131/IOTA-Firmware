@@ -1,0 +1,9 @@
+{
+    "require": {
+        "kreait/firebase-php": "^7.2",
+        "lcobucci/jwt": "^5.0",
+        "ext-fileinfo": "*",
+        "ext-sodium": "*",
+        "mashape/unirest-php": "^3.0"
+    }
+}

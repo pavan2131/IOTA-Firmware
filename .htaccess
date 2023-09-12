@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteCond %{REQUEST_URI}  !(\.png|\.jpg|\.webp|\.woff2|\.gif|\.jpeg|\.zip|\.css|\.svg|\.js)$

@@ -1,0 +1,19 @@
+{
+  "type": "service_account",
+  "project_id": "dumtest-a242e",
+  "apiKey": "AIzaSyBMuV4V-Qf6GUKrgfzjR4J4ary9bYZWRp0",
+  "authDomain": "dumtest-a242e.firebaseapp.com",
+  "databaseURL": "https://dumtest-a242e-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "projectId": "dumtest-a242e",
+  "storageBucket": "dumtest-a242e.appspot.com",
+  "messagingSenderId": "80047100716",
+  "appId": "1:80047100716:web:3419a3f2d3819cf10a5289",
+  "private_key_id": "937cf80b5af9ceb1af2871d647970cb360f46e8c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0t6Q4gdSAybIf\ncQpe876p+4LoUviTnOkHrgWLLE6aF0bUGY1TEeBNVxpoqFJZ4gOV1mvRbmDCorON\nhtxelnmSvYNMZCCoCgbHuWAafOxk2+klJESzW8p8UuZa3+RHBNEzzSmCo3eFUZ1S\nGl6ZLJsZejA87NfEdJ5zAplgtpqmwdc4mePD3nCxDFhBEJZhKSPgniODNxnReN5Y\nom7eeOJBkTvQ9FU5GvcTEpc9ngmm2Qq7xJh3XOE/ZTI7d4qn1C+B2hQlliaDgh3w\nIqz9yWHGn2sKehCGOA2UanlebW1YP6EuCbZGuTmZfBnOMhWJbRrBUkrGbbnpPqdS\nX789tMGNAgMBAAECggEAIzf2xRxoMYEdOYtqHf8alT3y0Rv6Xaoir+B2LB1CZD1N\nDGC+bgX51Ji5CNRk2Cd302eqM3JzYPscSuSRZc2le7d7MxQAWT86+wlhdUgLOcyx\nrw9WZC3rVDdDtUoUztJdgt7kzBTXYh/5rNp+vRM4Vsq9Q+JUWnDvwDItee+cTAr+\n5PUWh/EhrXVopyERK7gd6nP70nfS+W2IZVkbpa5BCS9rHzqoHI/8RtUgDaN9oNBo\nnnznCTkjJgDBaeevjvBIrfq5/lGARO3Kb2L76W+72uec+WeWVBrFlgZaXhB//EDv\ngrl7o2V/P06EDgX8/YKL6tZRbvVu3qiemsEEnLHEcQKBgQDfdNQJw1DELAXPUYm9\nmTl/7pxD4RcltgwNNkf5lFvcsb8hBktIpLdxNg7PDFHTXmQx8CRskY/KZmv+rAFw\nmHcKjXk+iQuB3VnqVOtZQHUJ3dFMZTcr9Ul7RbhTXvZe4WapuMlwyqcXnbw3hbl6\nMfg1kXwSWGKKVoJYQy8/jJvxNwKBgQDPCV2NvBckaPuCMKzDhM2xhg2dHmdcY+S5\nBhn6KhXU6BWvtFYAKwlPDAy0LGqIdOm2vjS0tuUiaPhpTgQkq7WBWfjte5mBAKI9\nw9YrKZLGLYavlQ37gKJe+qxeMUbUe3qvYxyLx+TcYAN8DHV/7oQuHmTY1dA4ZADp\n4/uD/KeVWwKBgQDWiIuqc+Ju9PT+/gGIDjuuH5/Xa5uVkRow9RRVAaLQV7ZwNmLA\n86NLBeNh1SoaDF2VtEDEG1w5reuxLeKT/00KzJjC+UAbBjD1UWJC5id3uYbgGazG\nf1B1EZLOODXBEhZGjCqaJ3YUrlOt2q0gLClpBKxh0ImK11N8+cO693wgMQKBgFce\nMMCoSfCnQFXrF3d6VXeC2g2oMoQdAKyelaW/ucoKEr4Jmzqc4WDiyCG0outijsm3\nxcPZRhexpf3htzqbClgwvN9paBFxa9OjqWYmKz27AHa3uNeArFJdFtTX1V8pylks\n0mE7LuFQgYbcU0EO443oejUH24MvCXdh2H8UfIwLAoGARcdtghQiu4nCeq/TSqM6\nC9EDAykNFX2YvECo+UPeZ4gkcCIVptToW7QZDcm5Im9If3YSvgrG2o0PwOFCm0if\nh9nUxnwN4eFSZYnFKT4et5A94e4aeYB2ldmxQiCOR7ihEnttlHcgBFdgSoOPv7er\nP4QejHhA5WjibdWe8HPcnv4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8i5mt@dumtest-a242e.iam.gserviceaccount.com",
+  "client_id": "105344650372692187364",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8i5mt%40dumtest-a242e.iam.gserviceaccount.com"
+}
